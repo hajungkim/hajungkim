@@ -15,4 +15,5 @@
 <div align="center">
   •••
 </div>
+
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=gkwjddlzz)](https://solved.ac/gkwjddlzz)
