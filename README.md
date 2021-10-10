@@ -27,7 +27,4 @@
 <br/>
 <br/>
 
-## Algorithm
 
-<img src="http://mazassumnida.wtf/api/generate_badge?boj=gkwjddlzz" />
-<br/>
