@@ -1,7 +1,7 @@
 <h3 align="center"> Hi <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> I'm Hajung Kim!</h3>
 <div align="center">
   <a href="https://hazung.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-49B48A?style=flat-square&logo=Blogger&logoColor=white"/>
+    <img src="https://img.shields.io/badge/My Blog-FD3A5C?style=flat-square&logo=Hotjar&logoColor=white"/>
   <a/>
   <a href="mailto:haha950903@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
